@@ -1,4 +1,3 @@
-v# ArgoCD
 
 ## What's the ArgoCD?
 
