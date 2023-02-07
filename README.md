@@ -17,3 +17,7 @@ It uses the GitOps style to create and manage Kubernetes clusters. When any chan
 ## How to export argocd-server service?
 
 kubectl patch svc argocd-server -n argocd -p '{"spec": {"type": "LoadBalancer"}}'
+
+## Example flask app image
+
+![alt text](https://github.com/MelihSelamiUrkmezz/ArgoCD-Examples/blob/main/Images/ex-argo.png)
