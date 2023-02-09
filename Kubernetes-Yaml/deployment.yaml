@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask-deployment
-        image: melihselamiurkmez/cicdex:v3
+        image: melihselamiurkmez/cicdex:v2
         ports:
         - containerPort: 5000
